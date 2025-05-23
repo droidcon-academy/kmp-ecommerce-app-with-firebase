@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "252503780150",
+    "project_id": "athleticademo",
+    "storage_bucket": "athleticademo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252503780150:android:46a92160743983ee3b6197",
+        "android_client_info": {
+          "package_name": "com.droidcon.athletica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252503780150-dchttmoel023q3eb9llk7151m1apdcsb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.droidcon.athletica",
+            "certificate_hash": "f0e444fa4dbea428fe86bdadea88a488fdeca8ab"
+          }
+        },
+        {
+          "client_id": "252503780150-r3763ej17bd10fl004d523jefr1k0i6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRslUqdvXZt8j06bHBgN0hwKknH9aANcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252503780150-r3763ej17bd10fl004d523jefr1k0i6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
